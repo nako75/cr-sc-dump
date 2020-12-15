@@ -32,3 +32,5 @@ If you want to get single sprites from the extracted pngs try  [sc_decode](https
 * [clanner](https://github.com/clanner)
 * [Galaxy1036](https://github.com/Galaxy1036)
 * [umop-aplsdn](https://github.com/umop-aplsdn)
+
+tested coc 8.212.12
